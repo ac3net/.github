@@ -1,6 +1,6 @@
 ## Autonomous Communication in Cooperative Computer Networks (AC3Net)
 
-This is the official account of the Software Campus microproject [AC3Net](https://softwarecampus.de/en/projekt/ac3net-autonomous-communication-in-cooperative-computer-networks/).
+This is the official account of [AC3Net](https://softwarecampus.de/en/projekt/ac3net-autonomous-communication-in-cooperative-computer-networks/), a two-year microproject (from 03/2022 to 06/2024) funded by the Federal Ministry of Education and Research of Germany (BMBF) through the [Software Campus](https://softwarecampus.de/en/) program.
 
 The goal of AC3Net was to improve the cooperation of learning systems in computer networks by allowing them to exchange learnable messages.
 Methodologically, the focus was on [reinforcement learning](http://incompleteideas.net/book/the-book.html) and [learned communication](https://arxiv.org/abs/2203.08975).
