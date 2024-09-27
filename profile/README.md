@@ -28,6 +28,10 @@ A positional paper in cooperation with the Software Campus microproject by Pegah
 
 > P. Golchin, J. Weil, R. Kundel, and R. Steinmetz, “Dynamic network intrusion detection system in Software-Defined Networking,” in 2nd Workshop on Machine Learning & Netwoking (MaLeNe), co-located with the 5th International Conference on Networked Systems (NetSys 2023), Potsdam, Berlin, September 4, 2023: proceedings, M. Seufert, A. Blenk, and O. Landsiedel, Eds., 2023.
 
+---
+
+© project logo: Alisha Hirsch
+
 <!--
 **Here are some ideas to get you started:**
 
